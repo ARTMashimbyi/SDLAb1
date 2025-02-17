@@ -1,0 +1,3 @@
+This lab reinforced the fundamentals of git and github , including repository management, braching , committing changes and pull request workflows.
+it also provided a hands on experience in deploying a simple webpage using github pages.
+througt this process, i created and managed a repo , implemented changes across different branches, performed a code review and ensured the website was publicly accessible.
